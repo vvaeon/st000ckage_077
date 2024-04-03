@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {  
+  background-image: url("img/chambre_page-0001.png");
+  background-size: cover;
+}
+.giftab{
+  position: absolute;
+  top: 100px;
+  left: 900px;
+}
+.diddle { 
+  position: absolute;
+  top: 700px;
+  left: 900px;
+}
+.xnx {
+  position: absolute;
+  top: 800PX;
+  left: 1150px;
+}
+.eye {
+  position: absolute;
+  top: 10px;
+  left: 1800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

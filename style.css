@@ -6,6 +6,11 @@ body {
   background-image: url("img/chambre_page-0001.png");
   background-size: cover;
 }
+.door{
+  position: absolute;
+  bottom: 13px;
+  left: 90px; 
+}
 .giftab{
   position: absolute;
   top: 100px;
